@@ -14,5 +14,5 @@ To run the service locally, follow these steps:
 ## Docker Support
 Alternatively, you can run the service using Docker. Use the provided docker-compose.yml file to:
 
-Run the service itself, exposing port 3000: `docker-compose up -d service`.
-Execute tests within the Docker environment: `docker-compose up test`.
+1. Run the service itself, exposing port 3000: `docker-compose up -d service`.
+1. Execute tests within the Docker environment: `docker-compose up test`.
